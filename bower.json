@@ -1,0 +1,10 @@
+{
+  "name": "knockout-js-learning",
+  "private": true,
+  "dependencies": {
+    "bootstrap-sass-official": "~3.1.0",
+    "jquery": "~1.11.0",
+    "knockout": "~3.2.0"
+  },
+  "devDependencies": {}
+}
